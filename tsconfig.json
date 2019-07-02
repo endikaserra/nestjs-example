@@ -10,6 +10,7 @@
     "outDir": "./dist",
     "baseUrl": "./",
     "incremental": true
+    // "noEmit": true //https://github.com/Microsoft/TypeScript/issues/14538#issuecomment-427979741
   },
   "exclude": ["node_modules"]
 }
